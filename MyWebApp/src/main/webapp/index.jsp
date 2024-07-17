@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Howdy folks!!!! Welcome to Webhook from GitHub to Jenkins!!!</h2>
+<h2>Yes, we have deployed our Java App</h2>
 </body>
 </html>
